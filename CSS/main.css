@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap");*/ */
+
+#barc {
+    background-color: rgb(49, 0, 94);
+    background: linear-gradient(rgb(49, 0, 94),#000);
+}
+#img1 {
+    margin-top:  10px;
+    margin-left: 30px
+}
+#img2 {
+    margin-top:  5px;
+    margin-left: 30px
+}
+.div1 {
+    margin-left: 20px;
+}
+#d1 {
+    justify-content: right;
+}
+
+/* #b1 {
+    font-weight: bolder;
+    margin-top:  5px;
+    margin-right: 20px;  
+    margin-left: 10px;
+    background-color: rgb(255, 247, 0);
+} */
+/* .div4 {
+
+} */
+
+#col-1 {
+    margin: auto;
+    display: flex;
+    justify-content:right;
+    align-items: center;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
+.div3 {
+    /* margin-left: 250px; */
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    /* margin-right: 250px; */
+}
+/* #b3 {
+    background-color: rgb(255, 231, 19);
+    font-weight: bolder;
+    margin-top:  5px;
+    margin-right: 150px;  
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+    color: #1b1b1b;
+} */
+/* #d3 {
+    justify-content: left;
+} */
+#b1 {
+    font-weight: bolder;
+    margin-top:  5px;
+    margin-left: 7px;
+    margin-right: auto;
+    
+    background-color: rgb(255, 247, 0);
+}
+#b2 {
+    font-weight: bolder;
+    margin-top:  5px;
+    margin-right: 70px;  
+    margin-left: 10px;
+    background-color: rgb(252, 252, 252);
+}
+#b2 {
+    font-weight: bolder;
+    margin-top:  5px;
+    margin-right: 70px;  
+    margin-left: 10px;
+    background-color: rgb(140, 140, 140);
+}
+.btn-lg {
+    font-weight: bolder;
+    background-color: rgb(255, 247, 0);
+}
+.card-title {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+#div5 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+#div6 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    color: #1c001d;
+}

@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap");*/ */
+ 
+.container {
+    font-family: 'Kanit', sans-serif;
+    justify-content: center;
+}
+/* #sign {
+    border:solid 2px;
+    border-radius: 15px;
+    border-color: rgb(156, 156, 156);
+    background-color: aliceblue;
+} */
+.row {
+    justify-content: center;
+}
+#navbarText {
+    font-family: 'Kanit', sans-serif;
+    color: aliceblue;
+    font-weight: bolder;
+}

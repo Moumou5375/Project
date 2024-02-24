@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap");*/ */
+
+#col2 {
+    /* margin: 10;
+    padding: 50; */
+    background: rgb(196, 140, 255);
+    /* border:solid 2px; */
+    /* margin: auto; */
+    /* border-radius: 10px; */
+    justify-content: left;
+}
+#row {
+    justify-content: left;
+}
+body {background-color:rgb(221, 184, 255);}

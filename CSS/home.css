@@ -1,0 +1,59 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wdth,wght@90.3,313&family=Playfair+Display:wght@600&display=swap"); */ */
+/* body { */
+    /* background-image: url('b.jpg');
+    background-size: cover; */
+    /* background: linear-gradient(#0099ff, #000);
+    width: 95vw;
+    height: 100vh; */
+    /* background: #000; 
+    background: -webkit-linear-gradient(#000, #0099ff); 
+    background: -o-linear-gradient(#000, #0099ff); 
+    background: -moz-linear-gradient(#000, #0099ff); 
+    background: linear-gradient(#000, #0099ff);  */
+/* } */
+.div1 {
+    font-weight: bolder; 
+    font-size: 50px; 
+    margin-top:  10px; 
+    margin-left: 10px;  
+    color: #ffffff;
+}
+#img1 { 
+    margin-top:  20px;
+    margin-left: 20px;  
+}
+/* #div2 {
+    /* margin-top:  10px; */
+/* }  */
+#b1 {
+    font-weight: bolder;
+    margin-top:  -20px;
+    padding-right: 20px; 
+}
+#d2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 55px; 
+    color: #ffffff;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px #474747;
+    margin-top:  10px; 
+    margin-left: 30px;
+}
+/* .d3 { */
+    /* font-family: 'Noto Serif Thai', serif; */
+    /* font-family: 'Playfair Display', serif; */
+    /* font-family: 'Playfair Display', serif; 
+    font-size: 55px; 
+    color: #ffffff;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px #474747;
+    margin-top:  10px; 
+    margin-left: 20px;   */
+/* } */
+#b1 {
+    color: #000000;
+    margin-left: 100px;
+    font-weight: bolder;
+    background-color: rgb(255, 200, 0);
+    font-size: 25px; 
+}

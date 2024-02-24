@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&family=Noto+Serif+Thai:wdth,wght@90.3,313&family=Playfair+Display:wght@600&display=swap');
+.course1 {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    /* margin-left: 100px; */
+}
+.course2 {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    /* margin-left: 100px; */
+}
+.course3 {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    /* margin-left: 100px; */
+}
+#c {
+    padding-right: 50px;
+}
